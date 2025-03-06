@@ -13,6 +13,11 @@ google-cloud-translate==3.20.1
 google-cloud-speech==2.24.1
 google-cloud-aiplatform==1.38.1
 
+pygments==2.19.1
+mdurl==0.1.2
+markdown-it-py==3.0.0
+rich==13.9.4
+
 # Data and Scientific Computing
 pandas==2.2.1
 numpy==1.26.4
