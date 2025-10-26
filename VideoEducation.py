@@ -209,7 +209,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyC6eczxNB6ZFsg-jHMRuhulhLzsjVyZyAI")
+genai.configure(api_key="")
 
 # Audio settings
 SAMPLE_RATE = 16000
@@ -804,4 +804,5 @@ This tool helps neurodivergent individuals better understand YouTube content thr
 - Multiple format options
 - Interactive Q&A chat
 - Dyslexia-friendly font option
+
     """)
